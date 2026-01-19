@@ -14,6 +14,19 @@
     "twitter": "AaronGustafson",
     "website": "https://www.aaron-gustafson.com"
   },
+  "aarontgrogg": {
+    "avatar_url": "366755",
+    "bluesky": "aarontgrogg.com",
+    "github": "aarontgrogg",
+    "linkedin": "aarontgrogg",
+    "name": "Aaron T. Grogg",
+    "teams": {
+      "2025": [
+        "authors"
+      ]
+    },
+    "website": "https://aarontgrogg.com/"
+  },
   "AbbyTsai": {
     "avatar_url": "44442451",
     "github": "AbbyTsai",
@@ -450,6 +463,20 @@
         "authors"
       ]
     }
+  },
+  "AmandeepSingh": {
+    "avatar_url": "456173",
+    "github": "amandeepsinghvirdi",
+    "linkedin": "amandeepsinghvirdi",
+    "name": "Amandeep Singh",
+    "teams": {
+      "2025": [
+        "authors",
+        "analysts"
+      ]
+    },
+    "twitter": "amanvirdi",
+    "website": "https://byaman.com/"
   },
   "cyberandy": {
     "avatar_url": "837037",
@@ -1306,7 +1333,8 @@
   "vsdaan": {
     "avatar_url": "9497296",
     "github": "vsdaan",
-    "name": "Daan V.",
+    "linkedin":"daan-vansteenhuyse-151297371",
+    "name": "Daan Vansteenhuyse",
     "teams": {
       "2025": [
         "analysts"
@@ -2038,6 +2066,18 @@
     },
     "website": "https://hidde.blog/"
   },
+  "himanshujariyal": {
+    "avatar_url": "6078423",
+    "github": "himanshujariyal",
+    "linkedin": "himanshujariyal",
+    "name": "Himanshu Jariyal",
+    "teams": {
+      "2025": [
+        "authors"
+      ]
+    },
+    "website": "https://medium.com/@him_jar"
+  },
   "housseindjirdeh": {
     "avatar_url": "12476932",
     "github": "housseindjirdeh",
@@ -2071,6 +2111,16 @@
     "teams": {
       "2020": [
         "translators"
+      ]
+    }
+  },
+  "hfhashmi": {
+    "avatar_url": "184349148",
+    "github": "hfhashmi",
+    "name": "Humaira",
+    "teams": {
+      "2025": [
+        "authors"
       ]
     }
   },
@@ -3780,7 +3830,7 @@
         "reviewers"
       ]
     },
-    "twitter": "nrllah",
+    "linkedin": "nurullahdemir",
     "website": "https://ndemir.com"
   },
   "oluoluoxenfree": {
@@ -4005,12 +4055,15 @@
   "25prathamesh": {
     "avatar_url": "10120153",
     "github": "25prathamesh",
-    "linkedin": "prathameshrasam",
+    "linkedin": "prathamesh-rasam",
     "name": "Prathamesh Rasam",
     "teams": {
       "2022": [
         "analysts",
         "reviewers"
+      ],
+      "2025": [
+        "authors"
       ]
     }
   },
@@ -4766,6 +4819,21 @@
     },
     "twitter": "itsmesudheendra"
   },
+  "stoyan": {
+    "avatar_url": "51308",
+    "bluesky": "stoyan.me",
+    "github": "stoyan",
+    "linkedin": "stoyanstefanov",
+    "mastodon": "https://indieweb.social/@stoyan",
+    "name": "Stoyan Stefanov",
+    "teams": {
+      "2025": [
+        "reviewers"
+      ]
+    },
+    "twitter": "stoyanstefanov",
+    "website": "https://www.phpied.com"
+  },
   "susie-lu": {
     "name": "Susie Lu",
     "teams": {
@@ -4824,6 +4892,19 @@
     },
     "twitter": "tameverts",
     "website": "https://speedcurve.com/"
+  },
+  "tannerhodges": {
+    "avatar_url": "1619485",
+    "bluesky": "tannerhodges.bsky.social",
+    "github": "tannerhodges",
+    "name": "Tanner Hodges",
+    "teams": {
+      "2025": [
+        "analysts",
+        "reviewers"
+      ]
+    },
+    "website": "https://tannerhodges.com/"
   },
   "thibaudcolas": {
     "avatar_url": "877585",

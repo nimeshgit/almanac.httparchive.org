@@ -3,7 +3,7 @@
     {
       "is_live": true,
       "supported_languages": ["en","es","fr","hi","it","ja","nl","pt","ru","tr","uk","zh-CN","zh-TW"],
-      "ebook_languages": []
+      "ebook_languages": ["en"]
     }
   ],
   "outline": [
@@ -59,8 +59,7 @@
           "part": "II",
           "chapter_number": "7",
           "title": "Performance",
-          "slug": "performance",
-          "todo": true
+          "slug": "performance"
         },
         {
           "part": "II",
@@ -97,8 +96,7 @@
           "part": "III",
           "chapter_number": "12",
           "title": "Ecommerce",
-          "slug": "ecommerce",
-          "todo": true
+          "slug": "ecommerce"
         }
       ]
     },
